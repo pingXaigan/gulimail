@@ -4,12 +4,14 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>com.aigan.gulimail</groupId>
-	<artifactId>gulimail-ware</artifactId>
+	<artifactId>gulimail</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>gulimail</name>
 	<description>聚合服务</description>
 	
 	<packaging>pom</packaging>
+	
+	<!--mall拼错了，发现得有点迟，不想改了，就这么着吧-->
 	
 	<modules>
 		<module>gulimail-ware</module>
@@ -17,6 +19,9 @@
 		<module>gulimail-coupon</module>
 		<module>gulimail-product</module>
 		<module>gulimail-order</module>
+		<module>renren-fast</module>
+		<module>renren-generator</module>
+		<module>gulimail-ommon</module>
 	</modules>
 	
 </project>

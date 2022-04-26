@@ -15,5 +15,10 @@ buildNumber.properties
 **/.mvn
 **/target
 
+### IntelliJ IDEA ###
 .idea
+*.iws
+*.iml
+*.ipr
+
 **/.gitignore

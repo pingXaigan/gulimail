@@ -21,7 +21,7 @@
 		<module>gulimail-order</module>
 		<module>renren-fast</module>
 		<module>renren-generator</module>
-		<module>gulimail-ommon</module>
+		<module>gulimail-common</module>
 	</modules>
 	
 </project>
